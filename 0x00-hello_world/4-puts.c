@@ -1,8 +1,8 @@
 #include<stdio.h>
 
-/*
+/**
  * main -starting point for code
- * body
+ *
  * always return 0 to show success
  */
 int main(void)
