@@ -6,11 +6,12 @@
  */
 int main(void)
 {
-    int i;
-    for (i=(97+25);i>=(97);i--)
-    {
-        putchar(i);
-    }
-    putchar('\n');
-    return 0;
+	int i;
+
+	for (i = (97 + 25); i >= (97); i--)
+	{
+		putchar(i);
+	}
+	putchar('\n');
+	return (0);
 }
