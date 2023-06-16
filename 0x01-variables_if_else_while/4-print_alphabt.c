@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-	int i=0;
+	int i = 0;
 	
-	for (i = 97; i<= (97+25); i++)
+	for (i = 97; i <= (97 + 25); i++)
 	{
 		if (i == 101 || i == 113)
 		{
