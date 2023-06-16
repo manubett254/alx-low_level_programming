@@ -7,10 +7,10 @@
 int main(void)
 {
 	int i;
-       	for ( i=97;i<=(97+25);i++)
+	for (i = 97; i <= (97 + 25); i++)
 	{
-	       	putchar(i);
+		putchar(i);
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }
