@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Prints last digit of number
+ *prints whether the last digit is greater than 5,less than 6 or is 0
  *
  * Return: Always 0 (Success)
  */
